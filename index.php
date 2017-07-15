@@ -31,7 +31,7 @@ if(isset($_GET['delete_id']))
  <div id="content">
     <table align="center">
     <tr>
-    <th colspan="5"><a href="add_data.php">add data here.</a></th>
+    <th colspan="5"><a href="add_data.php">add data here okk.</a></th>
     </tr>
     <th>First Name</th>
     <th>Last Name</th>
