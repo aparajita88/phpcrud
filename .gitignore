@@ -1,0 +1,4 @@
+ # ignore generated css files,
+ *.css
+ # except style.css which is maintained by hand
+ !style.css
